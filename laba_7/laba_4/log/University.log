@@ -1,0 +1,16 @@
+08.04.2024 15:10:15 [main] INFO  Main  - Start prog
+08.04.2024 15:14:23 [main] INFO  Main  - Start prog
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+08.04.2024 15:14:23 [main] INFO  Main  - 
+Performing various sorted
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.decanat.Decanat  - Counting students by course
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.decanat.Decanat  - Counting students by Format Education
+08.04.2024 15:14:23 [main] INFO  by.belstu.university.decanat.Decanat  - Sorted students by Name

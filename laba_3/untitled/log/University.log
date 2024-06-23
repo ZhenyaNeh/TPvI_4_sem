@@ -1,0 +1,17 @@
+11.03.2024 10:53:27 [main] INFO  Main  - Starting program
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+11.03.2024 10:53:27 [main] ERROR Main  - files/info.xml SAX ERROR schema_reference.4: Failed to read schema document 'file:/D:/University/TPvE/laba_3/untitled/files/info.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+11.03.2024 10:53:27 [main] INFO  Main  - 
+Performing various sorted
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.decanat.Decanat  - Counting students by course
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.decanat.Decanat  - Counting students by Format Education
+11.03.2024 10:53:27 [main] INFO  by.belstu.university.decanat.Decanat  - Sorted students by Name
+11.03.2024 10:53:27 [main] INFO  Main  - End Programme

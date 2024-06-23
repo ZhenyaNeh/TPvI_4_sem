@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <DistanceStudent>
+        <name>John</name>
+        <age>17</age>
+        <course>1</course>
+        <Specialization>Specialization.COMPUTER_SCIENCE</Specialization>
+    </DistanceStudent>
+    <RegularStudent>
+        <name>Alice</name>
+        <age>20</age>
+        <course>2</course>
+        <Specialization>Specialization.MATHEMATICS</Specialization>
+    </RegularStudent>
+</students>

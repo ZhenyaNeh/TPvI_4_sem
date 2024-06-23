@@ -1,0 +1,16 @@
+28.04.2024 18:38:10 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+28.04.2024 18:38:10 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connecting...
+28.04.2024 18:38:12 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+28.04.2024 18:38:12 [main] ERROR org.apache.log4j.chainsaw.Main  - ERROR Query!
+28.04.2024 18:39:15 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+28.04.2024 18:39:15 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connecting...
+28.04.2024 18:39:16 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+28.04.2024 18:39:16 [main] ERROR org.apache.log4j.chainsaw.Main  - ERROR Query!
+28.04.2024 18:40:28 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+28.04.2024 18:40:28 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connecting...
+28.04.2024 18:40:29 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+28.04.2024 18:40:29 [main] ERROR org.apache.log4j.chainsaw.Main  - ERROR Query!
+28.04.2024 19:34:52 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+28.04.2024 19:34:52 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connecting...
+28.04.2024 19:34:52 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+28.04.2024 19:34:52 [main] ERROR org.apache.log4j.chainsaw.Main  - ERROR Query!

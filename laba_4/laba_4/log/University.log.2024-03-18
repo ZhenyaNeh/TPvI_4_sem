@@ -1,0 +1,30 @@
+18.03.2024 19:04:20 [main] INFO  Main  - Starting program
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+18.03.2024 19:04:20 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+18.03.2024 19:04:20 [main] INFO  Main  - files/info.xml IS VALID
+18.03.2024 19:04:20 [main] INFO  Main  - files/info.xml IS VALID PARSE
+18.03.2024 19:04:20 [main] INFO  Main  - 
+Performing various sorted
+18.03.2024 19:04:20 [main] INFO  Main  - End Programme
+18.03.2024 19:11:46 [main] INFO  Main  - Starting program
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: John
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.RegularStudent  - Added Regular Student: Alice
+18.03.2024 19:11:46 [main] INFO  by.belstu.university.student.DistanceStudent  - Added Distance Student: Bob
+18.03.2024 19:11:46 [main] INFO  Main  - files/info.xml IS VALID
+18.03.2024 19:11:46 [main] INFO  Main  - files/info.xml IS VALID PARSE
+18.03.2024 19:11:46 [main] INFO  Main  - 
+Performing various sorted
+18.03.2024 19:11:46 [main] INFO  Main  - End Programme
